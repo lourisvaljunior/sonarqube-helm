@@ -1,3 +1,4 @@
+# Como Minikube não suporta LoadBalancer por padrão, configure o serviço como ClusterIP e habilite o Ingress para expor o SonarQube.
 # values.yaml
 
 service:
